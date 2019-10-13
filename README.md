@@ -1,2 +1,2 @@
-# beetroot
+# beetroot-repo
 Description for beetroot repo.
